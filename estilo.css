@@ -1,0 +1,25 @@
+body{
+	background-color: #696969;
+}
+.meu-nome{
+	color: #000000;
+	font-size: 60px;
+	font-family:sans-serif;
+	text-align: center;
+}
+.cabeçalho{
+	font-size: 25px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.paragrafo{
+	font-size: 20px;
+	font-family: Tahoma;
+	text-indent: 40px;
+	word-spacing: normal;
+	text-align: center
+}
+.dev1{
+	align-self: center;
+}
