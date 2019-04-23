@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"m",
+				"m-2"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"se",
+				"secondInitialPosition"
+			],
+			[
+				"g",
+				"grossProfit"
+			],
+			[
+				"t",
+				"taxPercent"
+			],
+			[
+				"con",
+				"conertToFarenheit"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"age",
+				"ageInSeconds"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fn",
+				"font-family\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Clara/Desktop/ebanx.html",
+		"/C/Users/Clara/Desktop/tabela1.html",
+		"/C/Users/Clara/Desktop/bootstrap.html",
+		"/C/Users/Clara/Desktop/Bootstra´p/imagemboot.html",
+		"/C/Users/Clara/Desktop/Site/carol.html",
+		"/C/Users/Clara/Desktop/Site Mulheres.html",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 4/app.js",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 4/index.html",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 3/app.js",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 3/index.html",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 2/app.js",
+		"/C/Users/Clara/Desktop/Exercios Laboratória/Exercicio 2/index.html",
+		"/C/Users/Clara/Desktop/Exercicio Guiado/app.js",
+		"/C/Users/Clara/Desktop/Exercicio Guiado/index3.html",
+		"/C/Users/Clara/Desktop/devtech.css",
+		"/C/Users/Clara/Desktop/New folder/devtech.html",
+		"/C/Users/Clara/Desktop/New folder/app.js",
+		"/C/Users/Clara/Desktop/index2.html",
+		"/C/Users/Clara/Desktop/Site/index.html",
+		"/C/Users/Clara/Desktop/Site/Ada.html",
+		"/C/Users/Clara/Desktop/Site/grace.html",
+		"/C/Users/Clara/Desktop/Site/radia.html",
+		"/C/Users/Clara/Desktop/Site/hedy.html",
+		"/C/Users/Clara/Desktop/Site/irma.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WebDev USP.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
